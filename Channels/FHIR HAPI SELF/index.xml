@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><channelGroup version="3.9.1">
+  <id>e6d2f735-ccdb-4ae2-a9ad-1047dac42194</id>
+  <name>FHIR HAPI SELF</name>
+  <revision>3</revision>
+  <lastModified>
+    <time>1686065400989</time>
+    <timezone>Asia/Calcutta</timezone>
+  </lastModified>
+  <description/>
+  <channels>
+    <channel version="3.9.1">
+      <id>a827a980-9c7f-410c-893a-141429f7b30a</id>
+      <revision>0</revision>
+    </channel>
+    <channel version="3.9.1">
+      <id>e5537a0c-98cb-4cd9-b82a-7b4784cc6c0d</id>
+      <revision>0</revision>
+    </channel>
+    <channel version="3.9.1">
+      <id>d35080b7-d16e-4fde-a20a-5607e0096143</id>
+      <revision>0</revision>
+    </channel>
+  </channels>
+</channelGroup>

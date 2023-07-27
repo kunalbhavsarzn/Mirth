@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><channelGroup version="3.9.1">
+  <id>531ba2ba-8a93-4b8f-8efb-d7f713ebcb41</id>
+  <name>FHIR Example</name>
+  <revision>4</revision>
+  <lastModified>
+    <time>1686032643563</time>
+    <timezone>Asia/Calcutta</timezone>
+  </lastModified>
+  <description/>
+  <channels>
+    <channel version="3.9.1">
+      <id>c2d8d952-8738-47c6-bdbe-89a7e3f61213</id>
+      <revision>0</revision>
+    </channel>
+    <channel version="3.9.1">
+      <id>10ef3f18-f1c1-495c-80be-026eb56436c5</id>
+      <revision>0</revision>
+    </channel>
+    <channel version="3.9.1">
+      <id>5cfc8ad8-0fb2-48bf-a318-1aabd86cf60e</id>
+      <revision>0</revision>
+    </channel>
+    <channel version="3.9.1">
+      <id>cb59398c-0585-4c12-ab37-5d02a48dd806</id>
+      <revision>0</revision>
+    </channel>
+    <channel version="3.9.1">
+      <id>64e32643-e41c-4986-9550-c634cb02f9ba</id>
+      <revision>0</revision>
+    </channel>
+    <channel version="3.9.1">
+      <id>e248ef99-284c-41f3-adac-d7b43433b16f</id>
+      <revision>0</revision>
+    </channel>
+  </channels>
+</channelGroup>
